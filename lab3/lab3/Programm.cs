@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using static System.Math;
 
-namespace lab3
+namespace lab3 //gg
 {
     class Program
     {

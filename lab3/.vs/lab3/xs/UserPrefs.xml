@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A7E56E5B-EA1D-4266-8718-0A85555E461A}|Default">
+  <MonoDevelop.Ide.ItemProperties.lab3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab3/Matrix.cs">
+    <Files>
+      <File FileName="lab3/Programm.cs" Line="22" Column="28" />
+      <File FileName="lab3/Circle.cs" Line="42" Column="1" />
+      <File FileName="lab3/Figure.cs" Line="9" Column="6" />
+      <File FileName="lab3/Rectangle.cs" Line="8" Column="38" />
+      <File FileName="lab3/Square.cs" Line="16" Column="1" />
+      <File FileName="lab3/IPrint.cs" Line="8" Column="1" />
+      <File FileName="lab3/FigureMatrix.cs" Line="1" Column="1" />
+      <File FileName="lab3/IMatrix.cs" Line="1" Column="1" />
+      <File FileName="lab3/Matrix.cs" Line="116" Column="11" />
+      <File FileName="lab3/SimpleList.cs" Line="1" Column="1" />
+      <File FileName="lab3/SimpleListItem.cs" Line="1" Column="1" />
+      <File FileName="lab3/SimpleStack.cs" Line="24" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
